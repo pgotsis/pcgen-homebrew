@@ -8,11 +8,10 @@ Haelyn
 	ALIGN:LG
 	FACT:Title|Lawmaker
 	FACT:Symbol|Silver sword over a golden sunburst
-	FACT:Worshippers|Anuirean,Paladin,Fighter,Noble
+	FACT:Worshippers|Anuirean,Paladin,Fighter,Noble,Regent,Officer
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
 	DESC:Haelyn (Anuire, Brechtür, Vosgaard), Halaïa (Khinasi), Holn (Rjurik). Haelyn (HAY-lynn) is the lord of justice and chivalry, and patron of the Anuirean people. He is the paragon of kings and paladins, and is worshiped throughout Cerilia by those seeking order through law. 
-	SYMBOL:Silver sword over a golden sunburst
 	DOMAINS:Good,Justice,Law,Nobility,War|PREALIGN:LG,LN,LE,NG,CG
 
 Erik
@@ -21,12 +20,11 @@ Erik
 	ALIGN:N
 	FACT:Title|Old Father of the Forests
 	FACT:Symbol|An oak tree
-	FACT:Worshippers|Rjurik,Druid,Barbarian,Ranger
+	FACT:Worshippers|Rjurik,Druid,Barbarian,Ranger,Hunter,Farmer,Traveller
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
 	DESC:Aeric (Anuire), Erik (Brechtür, Rjurik), Iraikhan (Vosgaard). Erik (AIR-ick) is the forest lord, the god of nature, protector of the wilderness, and patron of the Rjurik.
-	SYMBOL:An oak tree
-	DOMAINS:Animal,Earth,Plant,Wilderness|PREALIGN:LN,N,CN,NG,NE
+	DOMAINS:Animal,Earth,Plant,Wilderness|PREALIGN:LN,TN,CN,NG,NE
 
 Cuiraécen
 	KEY:Cuiraécen
@@ -38,8 +36,7 @@ Cuiraécen
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
 	DESC:Cuiraécen (Anuire), Kirche (Brechtür), Khirdai (Khinasi), Kirken (Rjurik). Cuiraécen (koo-RAY-eh-KEN) is the son of Haelyn and Nesirie. The god of battle is the patron of young warriors, for he is the representation of reckless courage and victory through strength.
-	SYMBOL:Lightning bolt crossed by a sword
-	DOMAINS:Chaos,Good,Strength,Storm,War|PREALIGN:NG,CG,N,CN,NE,CE
+	DOMAINS:Chaos,Good,Strength,Storm,War|PREALIGN:NG,CG,TN,CN,NE,CE
 
 Avani
 	KEY:Avani
@@ -47,12 +44,11 @@ Avani
 	ALIGN:LN
 	FACT:Title|Lady of Reason
 	FACT:Symbol|A rising sun
-	FACT:Worshippers|Khinasi,Magician,Paladin,Sorcerer,Wizard
+	FACT:Worshippers|Khinasi,Magician,Paladin,Sorcerer,Wizard,Scholar,Philosopher
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
 	DESC:Avanalae (Anuire), Lana (Brechtür), Avani (Khinasi), Vani (Rjurik). Avani (ah-VON-ee) is goddess of the sun, reason, and magic.
-	SYMBOL:A rising sun
-	DOMAINS:Law,Knowledge,Magic,Reason,Sun|PREALIGN:LG,NG,CG,LN,N,CN,LE,NE,CE
+	DOMAINS:Law,Knowledge,Magic,Reason,Sun|PREALIGN:LG,NG,CG,LN,TN,CN,LE,NE,CE
 
 Belinik
 	KEY:Belinik
@@ -60,12 +56,11 @@ Belinik
 	ALIGN:CE
 	FACT:Title|Lord of Strife
 	FACT:Symbol|Crossed axes
-	FACT:Worshippers|Vos,Barbarian,Fighter
+	FACT:Worshippers|Vos male,Barbarian,Fighter,Tyrant
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
 	DESC:Belinik (Anuire, Khinasi, Rjurik, Vosgaard), Alenecht (Brechtür). Belinik (bell-in-ICK) is the god of war, strife, competition and hatred.
-	SYMBOL:Crossed axes
-	DOMAINS:Chaos,Evil,Strength,Terror,War|PREALIGN:NG,CG,N,CN,NE,CE
+	DOMAINS:Chaos,Evil,Strength,Terror,War|PREALIGN:NG,CG,TN,CN,NE,CE
 
 Eloéle
 	KEY:Eloéle
@@ -73,12 +68,11 @@ Eloéle
 	ALIGN:CN
 	FACT:Title|Sister of Thieves
 	FACT:Symbol|Black dagger
-	FACT:Worshippers|Rogue
+	FACT:Worshippers|Rogue,Thief,Smuggler,Spy,Liar
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
 	DESC:Eloéle (Anuire), Éla (Brechtür), Elyal (Vosgaard). Eloéle (eh-LOW-eh-lay) is the lady of the night and the mistress of thieves, spies, and others who hide their activities from view. She deceives as naturally as others breathe; those who lie by design or habit also take her as their patron.
-	SYMBOL:Black dagger
-	DOMAINS:Chaos,Illusion,Night,Trickery|PREALIGN:NG,CG,N,CN,NE,CE
+	DOMAINS:Chaos,Illusion,Night,Trickery|PREALIGN:NG,CG,TN,CN,NE,CE
 
 Kriesha
 	KEY:Kriesha
@@ -86,25 +80,23 @@ Kriesha
 	ALIGN:LE
 	FACT:Title|The Ice Lady
 	FACT:Symbol|White hand
-	FACT:Worshippers|Vos,Women
+	FACT:Worshippers|Vos female,Barbarian,Witch
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
 	DESC:Kriestal (Brechtür), Karesha (Rjurik), Kriesha (Vosgaard). Kriesha (KREE-sha) is the goddess of winter -- long, bitter, harsh winter -- the sort of season in which the cold seeps into the warmest homes and in which the wolf packs sate their terrible hunger on those foolish enough to brave the storms.
-	SYMBOL:White hand
-	DOMAINS:Evil,Law,Suffering,Winter|PREALIGN:LN,N,CN,LE,NE,CE
+	DOMAINS:Evil,Law,Suffering,Winter|PREALIGN:LN,TN,CN,LE,NE,CE
 
 Laerme
 	KEY:Laerme
 	SORTKEY:01_Birthright
 	ALIGN:CG
 	FACT:Title|Goddess of Fire, Beauty, and Art
-	FACT:Symbol|Harp and flame
-	FACT:Worshippers|Bard
+	FACT:Symbol|Silver harp against a red flame
+	FACT:Worshippers|Bard,Artisan,Lover
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
-	DESC:
-	SYMBOL:Harp and flame
-	DOMAINS:|PREALIGN:
+	DESC: Laerme (Anuire, Brechtür), Leira (Khinasi), Lara (Rjurik), Ayairda (Vosgaard). Laerme (Lair-ME) is the goddess of warmth and passion. The goddess of art freely rewards or inspires any who seek to create art and beauty.
+	DOMAINS:Chaos,Charm,Flame,Good|PREALIGN:LG,NG,CG,LN,TN,CN
 
 Nesirie
 	KEY:Nesirie
@@ -112,12 +104,11 @@ Nesirie
 	ALIGN:NG
 	FACT:Title|Lady of Mourning
 	FACT:Symbol|Trident and wave
-	FACT:Worshippers|Paladin
+	FACT:Worshippers|Masetian,Paladin,Healer,Sailor,Mourner
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
-	DESC:
-	SYMBOL:Trident and wave
-	DOMAINS:|PREALIGN:
+	DESC:Nesirie (Anuire), Nasri (Khinasi), Narikja (Rjurik), Neira (Brechtür). Nesirie (neh-SEA-ree-ay) is the goddess of the sea and provider and guardian of those who make their living upon it. She is also the goddess of mourning and remembrance of people and things past.
+	DOMAINS:Good,Healing,Protection,Sea|PREALIGN:LG,NG,CG,LN,TN,CN,LE,NE,CE
 
 Ruornil
 	KEY:Ruornil
@@ -125,12 +116,11 @@ Ruornil
 	ALIGN:N
 	FACT:Title|The Silver Prince
 	FACT:Symbol|Moon and night sky
-	FACT:Worshippers|Wizard,Sorcerer,Magician
+	FACT:Worshippers|Wizard,Sorcerer,Magician,Explorer,Advisor,Counsellor
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
-	DESC:
-	SYMBOL:Moon and night sky
-	DOMAINS:|PREALIGN:
+	DESC:Ruornil (Anuire, Brechtür), Rilni (Khinasi), Lirorn (Rjurik), Lirovka (Vosgaard). Ruornil (roo-OR-nil) is the lord of the moon, of magic, and the guardian of mystical places.
+	DOMAINS:Knowledge,Magic,Moon,Spell|PREALIGN:LG,NG,CG,LN,TN,CN,LE,NE,CE
 
 Sera
 	KEY:Sera
@@ -138,100 +128,92 @@ Sera
 	ALIGN:CN
 	FACT:Title|Lady of Fortune
 	FACT:Symbol|Silver scales
-	FACT:Worshippers|Noble,Rogue
+	FACT:Worshippers|Brecht,Noble,Rogue,Merchant,Bard
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
-	DESC:
-	SYMBOL:Silver scales
-	DOMAINS:|PREALIGN:
+	DESC:Sarimie (Anuire), Sera (Brechtür, Rjurik), Sarma (Khinasi), Sirova (Vosgaard). Sera (SAIR-ah) is the deity of fortune and luck.
+	DOMAINS:Chaos,Luck,Trade,Travel|PREALIGN:LG,NG,CG,LN,TN,CN,LE,NE,CE
 
 Cold Rider
 	KEY:Cold Rider
 	SORTKEY:01_Birthright
 	ALIGN:NE
-	FACT:Title|
+	FACT:Title|The Usurper
 	FACT:Symbol|Cloaked rider
-	FACT:Worshippers|Warlock
+	FACT:Worshippers|Warlock,Undead,Power-hungry
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Undead
-	DESC:
-	SYMBOL:Cloaked rider
-	DOMAINS:|PREALIGN:
+	DESC:The Cold Rider (Anuire) The Night Walker (Rjurik), The Darkling (Khinasi). The Cold Rider is figure of mystery -- a malignant will given body and form in the spirit world.
+	DOMAINS:Charm,Death,Evil,Magic|PREALIGN:LE,NE,CE
 
 Kartathok
 	KEY:Kartathok
 	SORTKEY:01_Birthright
 	ALIGN:LE
-	FACT:Title|Lord of Goblin-kind
+	FACT:Title|The Great Slayer
 	FACT:Symbol|Bloody spear
-	FACT:Worshippers|Warlock
+	FACT:Worshippers|Goblin,Warlock
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Goblin
-	DESC:
-	SYMBOL:Bloody spear
-	DOMAINS:|PREALIGN:
+	DESC:Kartathok (car-tah-thock) is the lord and patron of all goblin-kind. He is a bloody god, and demands frequent sacrifices of foes, preferably those taken during raids or captured in battle.
+	DOMAINS:Destruction,Evil,Law,Strength|PREALIGN:LE,NE,CE
 
 Moradin
 	KEY:Moradin
 	SORTKEY:01_Birthright
 	ALIGN:LG
-	FACT:Title|God of Creation
+	FACT:Title|The Soul Forger
 	FACT:Symbol|Hammer and anvil
-	FACT:Worshippers|Paladin
+	FACT:Worshippers|Dwarf,Paladin
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Dwarf
-	DESC:
-	SYMBOL:Hammer and anvil
-	DOMAINS:|PREALIGN:
+	DESC:Moradin (moar-uh-din ) is the father and creator of the dwarven race. He is a stern paternal deity, gruff and uncompromising, and hard as stone. A harsh but fair judge, he is strength and force of will embodied.
+	DOMAINS:Earth,Good,Law,Protection|PREALIGN:LG,NG,CG,LN,TN,CN
 
 Torazan
 	KEY:Torazan
 	SORTKEY:01_Birthright
 	ALIGN:LE
-	FACT:Title|
+	FACT:Title|Oroglord
 	FACT:Symbol|Sword and horn
-	FACT:Worshippers|Warlock
+	FACT:Worshippers|Orog,Warlock
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Orog
-	DESC:
-	SYMBOL:Sword and horn
-	DOMAINS:|PREALIGN:
+	DESC:Torazan (tor-ah-zan) is the infernal lord of the Orogs. Like his chosen people, Torazan's brutish appearance conceals an active mind. Torazan prizes ingenuity and slyness, for such traits bring victory in battle.
+	DOMAINS:War,Earth,Law,Evil|PREALIGN:LE,NE,CE
 
 Yeenoghu
 	KEY:Yeenoghu
 	SORTKEY:01_Birthright
 	ALIGN:CE
 	FACT:Title|Lord of Gnolls
-	FACT:Symbol|
-	FACT:Worshippers|Warlock
+	FACT:Symbol|Three headed flail
+	FACT:Worshippers|Gnoll,Warlock
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Gnoll
-	DESC:
-	SYMBOL:
-	DOMAINS:|PREALIGN:
+	DESC:Yeenoghu is the patron of all gnolls.
+	DOMAINS:Chaos,Demonic,Evil,Strength|PREALIGN:CE
 
 Baphomet
 	KEY:Baphomet
 	SORTKEY:01_Birthright
 	ALIGN:CE
 	FACT:Title|Lord of Minotaurs
-	FACT:Symbol|
-	FACT:Worshippers|Warlock
+	FACT:Symbol|Twisted circular maze awash in blood
+	FACT:Worshippers|Minotaur,Warlock,Orog,Giant
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Minotaur
-	DESC:
-	SYMBOL:
-	DOMAINS:|PREALIGN:
+	DESC:Baphomet is the embodiment of savagery, an insidious force that worms its way into the heart of his followers to deceive them into embracing brutality.
+	DOMAINS:Chaos,Evil,Strength,Fury|PREALIGN:CN,NE,CE
 
 Kostchtchie
 	KEY:Kostchtchie
 	SORTKEY:01_Birthright
 	ALIGN:CE
-	FACT:Title|Lord of the Ice Giants
-	FACT:Symbol|
-	FACT:Worshippers|Warlock
+	FACT:Title|Lord of the Frost Giants
+	FACT:Symbol|Hammer rimed in bloody ice
+	FACT:Worshippers|Frost Giant,Warlock
 	FACTSET:Pantheon|Birthright
-	FACTSET:Race|Ice Giant
-	DESC:
-	SYMBOL:
-	DOMAINS:|PREALIGN:
+	FACTSET:Race|Frost Giant
+	DESC:The deformed demon-giant, Kostchtchie rules the polluted frozen reaches of the Iron Wastes. He is the patron of frost giants and the lord of wrath and rage.
+	DOMAINS:Chaos,Evil,Fury,Winter|PREALIGN:LE,NE,CE
