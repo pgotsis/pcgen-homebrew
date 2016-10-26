@@ -1,5 +1,6 @@
 SOURCELONG:Birthright Campaign Setting
 SOURCESHORT:BCS
+# Based on the sourcebook and on http://www.birthright.net/forums/showwiki.php?title=BRCS:Chapter_four_Gods_and_religion
 
 Haelyn
 	KEY:Haelyn
@@ -7,12 +8,12 @@ Haelyn
 	ALIGN:LG
 	FACT:Title|Lawmaker
 	FACT:Symbol|Silver sword over a golden sunburst
-	FACT:Worshippers|Anuireans, Paladins
+	FACT:Worshippers|Anuirean,Paladin,Fighter,Noble
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
 	DESC:Haelyn (Anuire, Brechtür, Vosgaard), Halaïa (Khinasi), Holn (Rjurik). Haelyn (HAY-lynn) is the lord of justice and chivalry, and patron of the Anuirean people. He is the paragon of kings and paladins, and is worshiped throughout Cerilia by those seeking order through law. 
 	SYMBOL:Silver sword over a golden sunburst
-	DOMAINS:Justice,Light,War|PREALIGN:LG,LN,LE,NG,CG
+	DOMAINS:Good,Justice,Law,Nobility,War|PREALIGN:LG,LN,LE,NG,CG
 
 Erik
 	KEY:Erik
@@ -20,12 +21,12 @@ Erik
 	ALIGN:N
 	FACT:Title|Old Father of the Forests
 	FACT:Symbol|An oak tree
-	FACT:Worshippers|Rjuriks, Druids
+	FACT:Worshippers|Rjurik,Druid,Barbarian,Ranger
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
 	DESC:Aeric (Anuire), Erik (Brechtür, Rjurik), Iraikhan (Vosgaard). Erik (AIR-ick) is the forest lord, the god of nature, protector of the wilderness, and patron of the Rjurik.
 	SYMBOL:An oak tree
-	DOMAINS:Life,Nature|PREALIGN:LN,N,CN,NG,NE
+	DOMAINS:Animal,Earth,Plant,Wilderness|PREALIGN:LN,N,CN,NG,NE
 
 Cuiraécen
 	KEY:Cuiraécen
@@ -33,9 +34,204 @@ Cuiraécen
 	ALIGN:CG
 	FACT:Title|Stormlord
 	FACT:Symbol|Lightning bolt crossed by a sword
-	FACT:Worshippers|Anuireans, Warriors, Soldiers
+	FACT:Worshippers|Anuirean,Barbarian,Fighter,Paladin
 	FACTSET:Pantheon|Birthright
 	FACTSET:Race|Human
 	DESC:Cuiraécen (Anuire), Kirche (Brechtür), Khirdai (Khinasi), Kirken (Rjurik). Cuiraécen (koo-RAY-eh-KEN) is the son of Haelyn and Nesirie. The god of battle is the patron of young warriors, for he is the representation of reckless courage and victory through strength.
 	SYMBOL:Lightning bolt crossed by a sword
-	DOMAINS:Tempest,War|PREALIGN:NG,CG,N,CN,NE,CE
+	DOMAINS:Chaos,Good,Strength,Storm,War|PREALIGN:NG,CG,N,CN,NE,CE
+
+Avani
+	KEY:Avani
+	SORTKEY:01_Birthright
+	ALIGN:LN
+	FACT:Title|Lady of Reason
+	FACT:Symbol|A rising sun
+	FACT:Worshippers|Khinasi,Magician,Paladin,Sorcerer,Wizard
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Human
+	DESC:Avanalae (Anuire), Lana (Brechtür), Avani (Khinasi), Vani (Rjurik). Avani (ah-VON-ee) is goddess of the sun, reason, and magic.
+	SYMBOL:A rising sun
+	DOMAINS:Law,Knowledge,Magic,Reason,Sun|PREALIGN:LG,NG,CG,LN,N,CN,LE,NE,CE
+
+Belinik
+	KEY:Belinik
+	SORTKEY:01_Birthright
+	ALIGN:CE
+	FACT:Title|Lord of Strife
+	FACT:Symbol|Crossed axes
+	FACT:Worshippers|Vos,Barbarian,Fighter
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Human
+	DESC:Belinik (Anuire, Khinasi, Rjurik, Vosgaard), Alenecht (Brechtür). Belinik (bell-in-ICK) is the god of war, strife, competition and hatred.
+	SYMBOL:Crossed axes
+	DOMAINS:Chaos,Evil,Strength,Terror,War|PREALIGN:NG,CG,N,CN,NE,CE
+
+Eloéle
+	KEY:Eloéle
+	SORTKEY:01_Birthright
+	ALIGN:CN
+	FACT:Title|Sister of Thieves
+	FACT:Symbol|Black dagger
+	FACT:Worshippers|Rogue
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Human
+	DESC:Eloéle (Anuire), Éla (Brechtür), Elyal (Vosgaard). Eloéle (eh-LOW-eh-lay) is the lady of the night and the mistress of thieves, spies, and others who hide their activities from view. She deceives as naturally as others breathe; those who lie by design or habit also take her as their patron.
+	SYMBOL:Black dagger
+	DOMAINS:Chaos,Illusion,Night,Trickery|PREALIGN:NG,CG,N,CN,NE,CE
+
+Kriesha
+	KEY:Kriesha
+	SORTKEY:01_Birthright
+	ALIGN:LE
+	FACT:Title|The Ice Lady
+	FACT:Symbol|White hand
+	FACT:Worshippers|Vos,Women
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Human
+	DESC:Kriestal (Brechtür), Karesha (Rjurik), Kriesha (Vosgaard). Kriesha (KREE-sha) is the goddess of winter -- long, bitter, harsh winter -- the sort of season in which the cold seeps into the warmest homes and in which the wolf packs sate their terrible hunger on those foolish enough to brave the storms.
+	SYMBOL:White hand
+	DOMAINS:Evil,Law,Suffering,Winter|PREALIGN:LN,N,CN,LE,NE,CE
+
+Laerme
+	KEY:Laerme
+	SORTKEY:01_Birthright
+	ALIGN:CG
+	FACT:Title|Goddess of Fire, Beauty, and Art
+	FACT:Symbol|Harp and flame
+	FACT:Worshippers|Bard
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Human
+	DESC:
+	SYMBOL:Harp and flame
+	DOMAINS:|PREALIGN:
+
+Nesirie
+	KEY:Nesirie
+	SORTKEY:01_Birthright
+	ALIGN:NG
+	FACT:Title|Lady of Mourning
+	FACT:Symbol|Trident and wave
+	FACT:Worshippers|Paladin
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Human
+	DESC:
+	SYMBOL:Trident and wave
+	DOMAINS:|PREALIGN:
+
+Ruornil
+	KEY:Ruornil
+	SORTKEY:01_Birthright
+	ALIGN:N
+	FACT:Title|The Silver Prince
+	FACT:Symbol|Moon and night sky
+	FACT:Worshippers|Wizard,Sorcerer,Magician
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Human
+	DESC:
+	SYMBOL:Moon and night sky
+	DOMAINS:|PREALIGN:
+
+Sera
+	KEY:Sera
+	SORTKEY:01_Birthright
+	ALIGN:CN
+	FACT:Title|Lady of Fortune
+	FACT:Symbol|Silver scales
+	FACT:Worshippers|Noble,Rogue
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Human
+	DESC:
+	SYMBOL:Silver scales
+	DOMAINS:|PREALIGN:
+
+Cold Rider
+	KEY:Cold Rider
+	SORTKEY:01_Birthright
+	ALIGN:NE
+	FACT:Title|
+	FACT:Symbol|Cloaked rider
+	FACT:Worshippers|Warlock
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Undead
+	DESC:
+	SYMBOL:Cloaked rider
+	DOMAINS:|PREALIGN:
+
+Kartathok
+	KEY:Kartathok
+	SORTKEY:01_Birthright
+	ALIGN:LE
+	FACT:Title|Lord of Goblin-kind
+	FACT:Symbol|Bloody spear
+	FACT:Worshippers|Warlock
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Goblin
+	DESC:
+	SYMBOL:Bloody spear
+	DOMAINS:|PREALIGN:
+
+Moradin
+	KEY:Moradin
+	SORTKEY:01_Birthright
+	ALIGN:LG
+	FACT:Title|God of Creation
+	FACT:Symbol|Hammer and anvil
+	FACT:Worshippers|Paladin
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Dwarf
+	DESC:
+	SYMBOL:Hammer and anvil
+	DOMAINS:|PREALIGN:
+
+Torazan
+	KEY:Torazan
+	SORTKEY:01_Birthright
+	ALIGN:LE
+	FACT:Title|
+	FACT:Symbol|Sword and horn
+	FACT:Worshippers|Warlock
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Orog
+	DESC:
+	SYMBOL:Sword and horn
+	DOMAINS:|PREALIGN:
+
+Yeenoghu
+	KEY:Yeenoghu
+	SORTKEY:01_Birthright
+	ALIGN:CE
+	FACT:Title|Lord of Gnolls
+	FACT:Symbol|
+	FACT:Worshippers|Warlock
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Gnoll
+	DESC:
+	SYMBOL:
+	DOMAINS:|PREALIGN:
+
+Baphomet
+	KEY:Baphomet
+	SORTKEY:01_Birthright
+	ALIGN:CE
+	FACT:Title|Lord of Minotaurs
+	FACT:Symbol|
+	FACT:Worshippers|Warlock
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Minotaur
+	DESC:
+	SYMBOL:
+	DOMAINS:|PREALIGN:
+
+Kostchtchie
+	KEY:Kostchtchie
+	SORTKEY:01_Birthright
+	ALIGN:CE
+	FACT:Title|Lord of the Ice Giants
+	FACT:Symbol|
+	FACT:Worshippers|Warlock
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Ice Giant
+	DESC:
+	SYMBOL:
+	DOMAINS:|PREALIGN:
