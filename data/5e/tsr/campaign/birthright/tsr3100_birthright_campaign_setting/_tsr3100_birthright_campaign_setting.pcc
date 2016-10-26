@@ -1,0 +1,19 @@
+CAMPAIGN:Birthright Campaign Setting
+KEY:5e - Birthright Campaign Setting
+GAMEMODE:5e
+RANK:1
+GENRE:Fantasy
+BOOKTYPE:Campaign Setting
+SETTING:Birthright
+STATUS:ALPHA
+TYPE:TSR.Birthright
+PUBNAMELONG:TSR
+PUBNAMESHORT:TSR
+SOURCELONG:Birthright Campaign Setting
+SOURCESHORT:BCS
+ISOGL:NO
+COPYRIGHT:Copyright 1995, TSR, Inc.
+
+INFOTEXT:D&D 5e adaptation of the Birthright Campaign Setting
+
+DEITY:bcs_deities.lst

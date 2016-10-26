@@ -1,0 +1,15 @@
+SOURCELONG:Birthright Campaign Setting
+SOURCESHORT:BCS
+
+Haelyn
+	KEY:Haelyn
+	SORTKEY:01_Birthright
+	ALIGN:LG
+	FACT:Title|Lawmaker
+	FACT:Symbol|Silver sword over a golden sunburst
+	FACT:Worshippers|
+	FACTSET:Pantheon|Birthright
+	FACTSET:Race|Human
+	DESC:Haelyn (Anuire, Brechtür, Vosgaard), Halaïa (Khinasi), Holn (Rjurik). Haelyn (HAY-lynn) is the lord of justice and chivalry, and patron of the Anuirean people. He is the paragon of kings and paladins, and is worshiped throughout Cerilia by those seeking order through law. 
+	SYMBOL:Silver sword over a golden sunburst
+	DOMAINS:Good, Justice, Law, Nobility, War|PREALIGN:LG,LN,LE,NG,CG
